@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mkmaker/youform",
+  "title": "Youform",
+  "description": "Create, edit and publish forms, surveys and quizzes, and analyze submissions via OAuth.",
+  "repository": {
+    "url": "https://github.com/mkmaker/youform-agent-plugin",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.youform.com/mcp"
+    }
+  ]
+}
