@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "youform",
+  "version": "1.0.0",
+  "description": "Create and edit forms, surveys and quizzes, publish authorized changes, and analyze accessible submissions through Youform's OAuth MCP server.",
+  "author": {
+    "name": "Youform",
+    "email": "abhishek@youform.com",
+    "url": "https://youform.com"
+  },
+  "homepage": "https://youform.com/mcp/",
+  "repository": "https://github.com/mkmaker/youform-agent-plugin",
+  "keywords": ["forms", "surveys", "quizzes", "youform", "mcp"]
+}
